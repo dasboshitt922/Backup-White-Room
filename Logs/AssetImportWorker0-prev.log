@@ -15,11 +15,11 @@ F:/GDFUNDA WHITE ROOM/Backup White Room
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-60342
+58874
 Successfully changed project path to: F:/GDFUNDA WHITE ROOM/Backup White Room
 F:/GDFUNDA WHITE ROOM/Backup White Room
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 70.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 59.72 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
 [Subsystems] Discovering subsystems at path F:/Unity/Editor/Data/Resources/UnitySubsystems
@@ -35,323 +35,43 @@ Initialize mono
 Mono path[0] = 'F:/Unity/Editor/Data/Managed'
 Mono path[1] = 'F:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'F:/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: F:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001867 seconds.
+Registered in 0.002242 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 76.08 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 56.86 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.205 seconds
+- Completed reload, in  1.932 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001453 seconds.
+Registered in 0.001372 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.355 seconds
+- Completed reload, in  1.371 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1717 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 104.1 MB.
 System memory in use after: 104.2 MB.
 
 Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2176.
-Total: 2.132900 ms (FindLiveObjects: 0.185800 ms CreateObjectMapping: 0.062300 ms MarkObjects: 1.766300 ms  DeleteObjects: 0.117200 ms)
+Total: 2.147400 ms (FindLiveObjects: 0.188700 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.777700 ms  DeleteObjects: 0.115200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/DeepBlue_snaps001.mat
-  artifactKey: Guid(0311cbb0184a51845912c30ec478cb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/DeepBlue_snaps001.mat using Guid(0311cbb0184a51845912c30ec478cb8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13714b369e55e061ddedab4826c06ad') in 0.176251 seconds
-  Import took 0.179640 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000320 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/White_snaps001.mat
-  artifactKey: Guid(4a11ac89ec3635a4b896556552983d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/White_snaps001.mat using Guid(4a11ac89ec3635a4b896556552983d54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147688d539ee253adcfe6dc25da7e7d0') in 0.051909 seconds
-  Import took 0.055252 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000290 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Gray_snaps001.mat
-  artifactKey: Guid(8621dfcb3dbf229428e45425021e0875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Gray_snaps001.mat using Guid(8621dfcb3dbf229428e45425021e0875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbdbffc0cd1dfec53342a2b145158ed6') in 0.011124 seconds
-  Import took 0.017399 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/DarkGray_snaps001.mat
-  artifactKey: Guid(15cb6b096bb78c7479c93c6e26153387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/DarkGray_snaps001.mat using Guid(15cb6b096bb78c7479c93c6e26153387) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1bb233780f4c96530c418c915d00d52') in 0.020031 seconds
-  Import took 0.026287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000286 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Red_snaps001.mat
-  artifactKey: Guid(329e1b1722fe9c946999242edace2ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Red_snaps001.mat using Guid(329e1b1722fe9c946999242edace2ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f05ca2d0de7a97c34819ef7e98d022') in 0.013814 seconds
-  Import took 0.018069 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Green_snaps001.mat
-  artifactKey: Guid(cff86b3f8014a6e4babecc006d77e004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/Green_snaps001.mat using Guid(cff86b3f8014a6e4babecc006d77e004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '550bc6c3760e855fc971e762c49d16d7') in 0.025771 seconds
-  Import took 0.033673 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000972 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/LightGray_snaps001.mat
-  artifactKey: Guid(ae2efeea9c901af48b6bb19d9981d5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/LightGray_snaps001.mat using Guid(ae2efeea9c901af48b6bb19d9981d5d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf07a8890df5ded6ec002f7592c7c45a') in 0.030949 seconds
-  Import took 0.035799 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/GreenDark_snaps001.mat
-  artifactKey: Guid(6f5b522968a198d40a19799562c3eae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/GreenDark_snaps001.mat using Guid(6f5b522968a198d40a19799562c3eae2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067ccb691651becdf7ae97c66f56f8b0') in 0.009974 seconds
-  Import took 0.014577 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/BrownLight_snaps001.mat
-  artifactKey: Guid(9dd3f5b3049028f4e948921f3bf87f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/BrownLight_snaps001.mat using Guid(9dd3f5b3049028f4e948921f3bf87f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec51135dd3f29f6b38527633ae99bca6') in 0.014412 seconds
-  Import took 0.020745 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000070 seconds.
-  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/UnusedFaces_snaps001.mat
-  artifactKey: Guid(3cb8172b4f393944295e6584397f2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets_OFFICE/ModernOffice_Interior/Materials/UnusedFaces_snaps001.mat using Guid(3cb8172b4f393944295e6584397f2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6bc34aef98609c3856b8fd5ce92244') in 0.011407 seconds
-  Import took 0.016297 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4530.674250 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1.png
-  artifactKey: Guid(490289cbbc65ed34b896c90384eac04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1.png using Guid(490289cbbc65ed34b896c90384eac04d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ccd4c042f35d4613df283ef5e91223') in 0.179847 seconds
-  Import took 0.186436 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000291 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Displacement.png
-  artifactKey: Guid(ffc525bd5a643c34cae7a47ee0b8cb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Displacement.png using Guid(ffc525bd5a643c34cae7a47ee0b8cb45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ce885c1a9a513e1f612fd85d62516a') in 0.063057 seconds
-  Import took 0.067427 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 2.png
-  artifactKey: Guid(e4de236a1459ad94299d434d698a1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 2.png using Guid(e4de236a1459ad94299d434d698a1e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c81352b3902b4ee80940d50ddace835e') in 0.040343 seconds
-  Import took 0.044173 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Occlusion.png
-  artifactKey: Guid(8f091981196afba42a180f56136e5414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Occlusion.png using Guid(8f091981196afba42a180f56136e5414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ad4b312495dcc7d4728908ace12165') in 0.068465 seconds
-  Import took 0.073719 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000270 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 4.png
-  artifactKey: Guid(1feb2584b0fa05e4a9649d2aa1d16f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 4.png using Guid(1feb2584b0fa05e4a9649d2aa1d16f19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a198289550bfa657ec066f61e46287ae') in 0.060242 seconds
-  Import took 0.064607 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3.png
-  artifactKey: Guid(36622841c4076ed49b25a225df68e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3.png using Guid(36622841c4076ed49b25a225df68e946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08ce5d5ccdfc71d3bc00024469019c93') in 0.082978 seconds
-  Import took 0.086948 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000293 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Displacement.png
-  artifactKey: Guid(33f2130b3bb543b4b989a0c5576bf035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Displacement.png using Guid(33f2130b3bb543b4b989a0c5576bf035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d772180faa09624caa3a15e88025f79') in 0.085530 seconds
-  Import took 0.103351 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 4 bump.png
-  artifactKey: Guid(db10a65cd98d659499049e344181afd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 4 bump.png using Guid(db10a65cd98d659499049e344181afd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf015d4a5b55d4e30fc498125079ad9b') in 0.099852 seconds
-  Import took 0.121743 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Occlusion.png
-  artifactKey: Guid(5c2d2e480d9b9194e88f03a9dba2f12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Occlusion.png using Guid(5c2d2e480d9b9194e88f03a9dba2f12c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a8ed0ab5c564eb969d95a2fd9f9be28') in 0.011456 seconds
-  Import took 0.014970 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_Normals.png
-  artifactKey: Guid(7633817a1c46fca4d8424d707d87d50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_Normals.png using Guid(7633817a1c46fca4d8424d707d87d50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f70c141f284655659def537d037868b') in 0.131936 seconds
-  Import took 0.136226 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000303 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Occlusion.png
-  artifactKey: Guid(1f26a96a2e2f51c419e694f58abf7bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Occlusion.png using Guid(1f26a96a2e2f51c419e694f58abf7bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc56e33794166562ea1ff3d7a90d78c') in 0.030938 seconds
-  Import took 0.035179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 6.png
-  artifactKey: Guid(5136f3fbfc9070144a0dd22bd4689284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 6.png using Guid(5136f3fbfc9070144a0dd22bd4689284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc0f9727fa2122dfde2545433a549c5') in 0.066371 seconds
-  Import took 0.071767 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000337 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Normals.png
-  artifactKey: Guid(050895a11df9ef94f8e5fccbef003224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 1 Normals.png using Guid(050895a11df9ef94f8e5fccbef003224) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d36a0465015342ead86d0728279925') in 0.039798 seconds
-  Import took 0.043853 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000271 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Normals.png
-  artifactKey: Guid(95ed8ed68da74d14ebd3162b5ea00e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Normals.png using Guid(95ed8ed68da74d14ebd3162b5ea00e34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d1605d5d368369a17dcf6a00acce65b') in 0.126876 seconds
-  Import took 0.131429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5.png
-  artifactKey: Guid(2f4fc8a273813d44ca43f997b99cce26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5.png using Guid(2f4fc8a273813d44ca43f997b99cce26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8d6e98d4da8c8d67ae3accbb36b428') in 0.089888 seconds
-  Import took 0.093384 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000261 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Normals.png
-  artifactKey: Guid(3eee68577dac6fa42a7b3f576934b4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Normals.png using Guid(3eee68577dac6fa42a7b3f576934b4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4e3845a4f73a48150c6f0f0ac18cea') in 0.108616 seconds
-  Import took 0.112056 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000269 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Displacement.png
-  artifactKey: Guid(fe940a9a68f8d5741b2c4aa6c30f10e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 3 Displacement.png using Guid(fe940a9a68f8d5741b2c4aa6c30f10e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd306ed2c4d451581dbad197a62ec94c6') in 0.085603 seconds
-  Import took 0.089966 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 2 bump.png
-  artifactKey: Guid(74a2801545f3e3c448ac191c03643182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 2 bump.png using Guid(74a2801545f3e3c448ac191c03643182) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa6ffbb95d40f82671e9134b148bc3b') in 0.030137 seconds
-  Import took 0.035358 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000268 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_AO.png
-  artifactKey: Guid(c00b25e229f5d38439d7cd719ce2ceb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_AO.png using Guid(c00b25e229f5d38439d7cd719ce2ceb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a75ebb918a15a985057f1c261c6039') in 0.058980 seconds
-  Import took 0.062811 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_Displacement.png
-  artifactKey: Guid(3ebd5a3752ce40a4dae580ca404cba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks6_Displacement.png using Guid(3ebd5a3752ce40a4dae580ca404cba57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df5e2de58ff59c2c2e85bab8ad143371') in 0.069743 seconds
-  Import took 0.074579 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Normals2.png
-  artifactKey: Guid(8c74104b5da25214ebff87d3eaa29cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Rocks/Textures/Rocks 5 Normals2.png using Guid(8c74104b5da25214ebff87d3eaa29cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8b58fa3b45ee92e21e7c8f4acd10ed6') in 0.098847 seconds
-  Import took 0.103125 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 90.400903 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Leaves/Textures
-  artifactKey: Guid(f59299a7349f6e9408219ae596e34d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Leaves/Textures using Guid(f59299a7349f6e9408219ae596e34d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a45620b5c4f97b96ef8463023f0e0f') in 0.002873 seconds
-  Import took 0.008072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.169083 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Displacement.png
-  artifactKey: Guid(b5cfaebf0517bc5438612359a001bf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Displacement.png using Guid(b5cfaebf0517bc5438612359a001bf95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78fc3ec5d978997a89b3d6752e8f5476') in 0.025955 seconds
-  Import took 0.044269 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000296 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Occlusion.png
-  artifactKey: Guid(f57347b62d8121c4b8099fbc6ac924d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Occlusion.png using Guid(f57347b62d8121c4b8099fbc6ac924d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84eb0c63af14e6ba308310f0e140007') in 0.008587 seconds
-  Import took 0.012714 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000230 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Normals.png
-  artifactKey: Guid(4e40c694474442d47af61406e2793638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1 Normals.png using Guid(4e40c694474442d47af61406e2793638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eae542d8e00349247730aa987fb844e') in 0.013521 seconds
-  Import took 0.026242 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1.png
-  artifactKey: Guid(6aeaa5c85c070b547b1f12948f2100d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Imported/PBS Materials Variety Pack/Leaves/Textures/Leaves 1.png using Guid(6aeaa5c85c070b547b1f12948f2100d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704050fae0231566e6d177f5c7108ed6') in 0.013195 seconds
-  Import took 0.018440 seconds .
+  path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets
+  artifactKey: Guid(582dcf4f6c28ded4f8718ad94012acba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets using Guid(582dcf4f6c28ded4f8718ad94012acba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72aace17bddc4f762a004e574e5455d') in 0.029520 seconds
+  Import took 0.033260 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
